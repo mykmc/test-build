@@ -2,7 +2,7 @@
 
 KeefyMOD test
 
-**ALL CREDIT TO Marceldt FOR THIS!  I am learning how to create a repo, and in NO way trying to take credit for his hard work**
+**ALL CREDIT TO MarcelVT FOR THIS!  I am learning how to create a repo, and in NO way trying to take credit for his hard work**
 
 This skin is available in the official Kodi repository.
 
